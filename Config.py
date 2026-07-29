@@ -2,21 +2,22 @@
 # Telegram API Configuration
 # ===========================
 
-API_ID = 12345678
-API_HASH = "YOUR_API_HASH"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = "35915041"
+API_HASH = "011fabdce4a5547ce2e56533862445ad"
+BOT_TOKEN = "8846238899:AAFB_aBljlWBPlCrRuqO0THneld1ASshLYk"
 
 # ===========================
 # Database
 # ===========================
 
-MONGO_URI = "YOUR_MONGODB_URI"
+MONGO_URI = "mongodb+srv://rupamedical:dQv9oKG7QK93BkIh@james.oufkybu.mongodb.net/?appName=james
+"
 
 # ===========================
 # Bot Settings
 # ===========================
 
-OWNER_ID = 123456789
+OWNER_ID = "6334669810"
 
 # ===========================
 # Bot Information
