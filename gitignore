@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# MongoDB
+*.bson
+
+# Temporary files
+*.tmp
+*.temp
+
+# Pyrogram Session Files
+*.session
+*.session-journal
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Docker
+docker-compose.override.yml
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Media Downloads
+downloads/
+temp/
+thumbnails/
+
+# Git
+.git/
